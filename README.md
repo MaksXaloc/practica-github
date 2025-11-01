@@ -1,4 +1,4 @@
-# practica-github
+
 Proposito:
 Este repositorio fue creado para practicar GitHub, para crear distintos repositorios, subir archivos y guardar el historial de las versiones correctamente.
 
