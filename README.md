@@ -5,6 +5,6 @@ Este repositorio fue creado para practicar GitHub, para crear distintos reposito
 En este repositorio he subido un archivo HTML en este caso con una escructra basica, donde aparecen los elementos mas basicos.
 Una de las funciones que pretende enseñar GITHUB es el de organizar diversos proyectos
 
-Autor:Maksym
+Maksym
 
 Version: 1.0
